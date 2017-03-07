@@ -1,0 +1,66 @@
+body,html{
+	height: 100%;
+}
+
+
+#panel{
+	height: 100%;
+}
+#menu{
+	padding-left: 0px;
+	padding-right: 0px;
+	background-color: #333;
+	height: 100%;
+}
+
+#panel-container{
+	height: 100%;	
+}
+
+#panel .list-group-item{
+	background-color: #333;
+	color: white;
+	border:none;
+}
+
+#panel .list-group-item:hover{
+	background-color: #3D3D3D;
+	border-left: thick solid #2780E3;
+	color: white;
+}
+
+#avatar{
+	padding: 5px 15px;
+}
+
+#avatar img{
+	width: 100%;
+}
+
+#menu .item-seleccionado{
+	background-color: #232222;
+	border-left: thick solid #2780E3;
+	color: white;
+}
+
+.service-item {
+    border-style: solid;
+    border-width: 1px;
+    margin: 1% 0 0 8%;
+    border-color: #8c7259;	
+}
+
+.dark-background{
+	background-color: #333;
+}
+
+#servicios{
+	margin-bottom: 100px;
+}
+
+.text-dinamic{
+	border: solid 1px #ccc;
+	background-color: #2780E3;
+	color: white;
+	padding: 20px 0px;
+}
